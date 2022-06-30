@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-zhizu",
+  "version": "1.0.6",
+  "description": "Eslint Config for zhizu Front Deveploment Team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "sh release.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.devops.zhizukj.com/shijianjun/eslint-config-zhizu"
+  },
+  "keywords": [
+    "eslint",
+    "zhizu"
+  ],
+  "author": "shijianjun",
+  "license": "ISC"
+}
